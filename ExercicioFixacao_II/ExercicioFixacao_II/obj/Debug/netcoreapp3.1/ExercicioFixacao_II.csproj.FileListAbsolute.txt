@@ -1,0 +1,13 @@
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\bin\Debug\netcoreapp3.1\ExercicioFixacao_II.exe
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\bin\Debug\netcoreapp3.1\ExercicioFixacao_II.deps.json
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\bin\Debug\netcoreapp3.1\ExercicioFixacao_II.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\bin\Debug\netcoreapp3.1\ExercicioFixacao_II.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\bin\Debug\netcoreapp3.1\ExercicioFixacao_II.dll
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\bin\Debug\netcoreapp3.1\ExercicioFixacao_II.pdb
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\obj\Debug\netcoreapp3.1\ExercicioFixacao_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\obj\Debug\netcoreapp3.1\ExercicioFixacao_II.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\obj\Debug\netcoreapp3.1\ExercicioFixacao_II.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\obj\Debug\netcoreapp3.1\ExercicioFixacao_II.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\obj\Debug\netcoreapp3.1\ExercicioFixacao_II.dll
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\obj\Debug\netcoreapp3.1\ExercicioFixacao_II.pdb
+C:\Users\anton\OneDrive\Documentos\C#\ExercicioFixacao_II\ExercicioFixacao_II\obj\Debug\netcoreapp3.1\ExercicioFixacao_II.genruntimeconfig.cache

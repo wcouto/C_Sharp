@@ -1,0 +1,14 @@
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.exe
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.deps.json
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\anton\OneDrive\Documentos\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.genruntimeconfig.cache

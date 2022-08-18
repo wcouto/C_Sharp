@@ -1,0 +1,14 @@
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.exe
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.deps.json
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.dll
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.pdb
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.dll
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.pdb
+C:\Users\anton\OneDrive\Documentos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.genruntimeconfig.cache

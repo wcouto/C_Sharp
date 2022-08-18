@@ -1,0 +1,14 @@
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\netcoreapp3.1\EntradaSaidaDados.exe
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\netcoreapp3.1\EntradaSaidaDados.deps.json
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\netcoreapp3.1\EntradaSaidaDados.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\netcoreapp3.1\EntradaSaidaDados.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\netcoreapp3.1\EntradaSaidaDados.dll
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\netcoreapp3.1\EntradaSaidaDados.pdb
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.dll
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.pdb
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Documentos\C#\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\netcoreapp3.1\EntradaSaidaDados.csproj.AssemblyReference.cache

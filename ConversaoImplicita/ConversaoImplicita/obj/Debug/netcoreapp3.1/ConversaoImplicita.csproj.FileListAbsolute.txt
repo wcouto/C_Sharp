@@ -1,0 +1,13 @@
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\bin\Debug\netcoreapp3.1\ConversaoImplicita.exe
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\bin\Debug\netcoreapp3.1\ConversaoImplicita.deps.json
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\bin\Debug\netcoreapp3.1\ConversaoImplicita.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\bin\Debug\netcoreapp3.1\ConversaoImplicita.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\bin\Debug\netcoreapp3.1\ConversaoImplicita.dll
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\bin\Debug\netcoreapp3.1\ConversaoImplicita.pdb
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\obj\Debug\netcoreapp3.1\ConversaoImplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\obj\Debug\netcoreapp3.1\ConversaoImplicita.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\obj\Debug\netcoreapp3.1\ConversaoImplicita.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\obj\Debug\netcoreapp3.1\ConversaoImplicita.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\obj\Debug\netcoreapp3.1\ConversaoImplicita.dll
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\obj\Debug\netcoreapp3.1\ConversaoImplicita.pdb
+C:\Users\anton\OneDrive\Documentos\C#\ConversaoImplicita\ConversaoImplicita\obj\Debug\netcoreapp3.1\ConversaoImplicita.genruntimeconfig.cache

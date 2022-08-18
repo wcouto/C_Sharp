@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\netcoreapp3.1\EstruturaRepeticao.exe
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\netcoreapp3.1\EstruturaRepeticao.deps.json
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\netcoreapp3.1\EstruturaRepeticao.runtimeconfig.json
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\netcoreapp3.1\EstruturaRepeticao.runtimeconfig.dev.json
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\netcoreapp3.1\EstruturaRepeticao.dll
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\netcoreapp3.1\EstruturaRepeticao.pdb
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.AssemblyInfo.cs
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.dll
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.pdb
+C:\Users\anton\source\repos\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\netcoreapp3.1\EstruturaRepeticao.genruntimeconfig.cache

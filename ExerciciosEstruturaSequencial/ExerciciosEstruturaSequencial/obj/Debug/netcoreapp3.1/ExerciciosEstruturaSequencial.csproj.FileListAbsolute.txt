@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.exe
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.deps.json
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.runtimeconfig.json
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.dll
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.pdb
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.dll
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.pdb
+C:\Users\anton\source\repos\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial.genruntimeconfig.cache
