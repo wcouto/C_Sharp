@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\bin\Debug\netcoreapp3.1\EstrutuaWhile.exe
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\bin\Debug\netcoreapp3.1\EstrutuaWhile.deps.json
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\bin\Debug\netcoreapp3.1\EstrutuaWhile.runtimeconfig.json
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\bin\Debug\netcoreapp3.1\EstrutuaWhile.runtimeconfig.dev.json
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\bin\Debug\netcoreapp3.1\EstrutuaWhile.dll
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\bin\Debug\netcoreapp3.1\EstrutuaWhile.pdb
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.AssemblyInfo.cs
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.dll
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.pdb
+C:\Users\anton\source\repos\EstrutuaWhile\EstrutuaWhile\obj\Debug\netcoreapp3.1\EstrutuaWhile.genruntimeconfig.cache

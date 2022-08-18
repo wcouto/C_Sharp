@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\netcoreapp3.1\Funcoes(Sintaxe).exe
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\netcoreapp3.1\Funcoes(Sintaxe).deps.json
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\netcoreapp3.1\Funcoes(Sintaxe).runtimeconfig.json
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\netcoreapp3.1\Funcoes(Sintaxe).runtimeconfig.dev.json
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\netcoreapp3.1\Funcoes(Sintaxe).dll
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\bin\Debug\netcoreapp3.1\Funcoes(Sintaxe).pdb
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).AssemblyInfo.cs
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).dll
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).pdb
+C:\Users\anton\source\repos\Funcoes(Sintaxe)\Funcoes(Sintaxe)\obj\Debug\netcoreapp3.1\Funcoes(Sintaxe).genruntimeconfig.cache

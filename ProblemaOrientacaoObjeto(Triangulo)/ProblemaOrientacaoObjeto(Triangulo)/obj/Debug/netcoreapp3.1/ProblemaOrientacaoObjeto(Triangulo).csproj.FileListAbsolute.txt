@@ -1,0 +1,13 @@
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\bin\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).exe
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\bin\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).deps.json
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\bin\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).runtimeconfig.json
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\bin\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).runtimeconfig.dev.json
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\bin\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).dll
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\bin\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).pdb
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\obj\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\obj\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\obj\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).AssemblyInfo.cs
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\obj\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\obj\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).dll
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\obj\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).pdb
+C:\Users\anton\source\repos\ProblemaOrientacaoObjeto(Triangulo)\ProblemaOrientacaoObjeto(Triangulo)\obj\Debug\netcoreapp3.1\ProblemaOrientacaoObjeto(Triangulo).genruntimeconfig.cache

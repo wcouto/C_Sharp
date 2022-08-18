@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\bin\Debug\netcoreapp3.1\ExerciciosPropostos_III.exe
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\bin\Debug\netcoreapp3.1\ExerciciosPropostos_III.deps.json
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\bin\Debug\netcoreapp3.1\ExerciciosPropostos_III.runtimeconfig.json
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\bin\Debug\netcoreapp3.1\ExerciciosPropostos_III.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\bin\Debug\netcoreapp3.1\ExerciciosPropostos_III.dll
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\bin\Debug\netcoreapp3.1\ExerciciosPropostos_III.pdb
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.dll
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.pdb
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.genruntimeconfig.cache
+C:\Users\anton\source\repos\ExerciciosPropostos_III\ExerciciosPropostos_III\obj\Debug\netcoreapp3.1\ExerciciosPropostos_III.csproj.AssemblyReference.cache

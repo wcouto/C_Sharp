@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.exe
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.deps.json
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.json
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.dev.json
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfo.cs
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\Users\anton\source\repos\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.genruntimeconfig.cache
