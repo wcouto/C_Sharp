@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\source\\repos\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj": {}
+    "C:\\Users\\anton\\OneDrive\\Documentos\\C_Sharp\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\source\\repos\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj": {
+    "C:\\Users\\anton\\OneDrive\\Documentos\\C_Sharp\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\source\\repos\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj",
+        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\C_Sharp\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj",
         "projectName": "ProblemaOrientacaoObjeto(Triangulo)",
-        "projectPath": "C:\\Users\\anton\\source\\repos\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj",
+        "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\C_Sharp\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo).csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\source\\repos\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\obj\\",
+        "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\C_Sharp\\ProblemaOrientacaoObjeto(Triangulo)\\ProblemaOrientacaoObjeto(Triangulo)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
